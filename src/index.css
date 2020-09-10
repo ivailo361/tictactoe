@@ -18,7 +18,7 @@ body {
   }
   
   .square {
-    background: #fff;
+    background: rgb(241, 217, 217);
     border: 1px solid #999;
     float: left;
     font-size: 24px;
@@ -46,6 +46,6 @@ body {
   }
   
   .game-info {
-    margin-left: 20px;
+    margin-left: 30px;
   }
   
